@@ -1,27 +1,27 @@
 {
     "images": [
         {
-            "name": "alex-perez",
+            "name": "Alex Perez",
             "src": "./assets/alex-perez-ioJBsYQ-pPM-unsplash.jpg",
             "alt": "abstract painting by alex perez"
         },
         {
-            "name": "david-baker",
+            "name": "David Baker",
             "src": "./assets/david-becker-crs2vlkSe98-unsplash.jpg",
             "alt": "abstract painting by david baker"
         },
         {
-            "name": "pawel-czerwinski",
+            "name": "Pawel Czerwinski",
             "src": "./assets/pawel-czerwinski-6lQDFGOB1iw-unsplash.jpg",
             "alt": "abstract painting by pawel czerwinski"
         },
         {
-            "name": "pawel-czerwinski",
+            "name": "Pawel Czerwinski",
             "src": "./assets/pawel-czerwinski-Tyg0rVhOTrE-unsplash.jpg",
             "alt": "abstract painting by pawel czerwinski"
         },
         {
-            "name": "alex-khoehler",
+            "name": "Alex Khoehler",
             "src": "./assets/alex-khoehler-3826328.jpg",
             "alt": "abstract painting by alex khoehler"
         }
